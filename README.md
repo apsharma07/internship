@@ -29,6 +29,7 @@ This document outlines six internship tasks that involve data visualization in a
   - Qualification: Only `B.Tech`
   - Job Posting Date: Between `01/01/2023` and `06/01/2023`
 - **Time Constraint**: Visible only between `3 PM IST to 5 PM IST`
+- **Note**: This task does not generate any output from the given dataset and conditions.
 
 ### Task 3: Preference vs Work Type (Internships)
 - **Chart**: Scatter Plot
@@ -53,6 +54,7 @@ This document outlines six internship tasks that involve data visualization in a
   - Job Portal: `Indeed`
 - **Additional Feature**: Click on `Latitude & Longitude` to open a map showing the exact location.
 - **Time Constraint**: Visible only between `3 PM IST to 6 PM IST`
+- **Note**: This task does not generate any output from the given dataset and conditions.
 
 ### Task 5: Data Science & Aerospace Engineering Jobs in India & Germany
 - **Chart**: Bar Chart (Color-coded)
